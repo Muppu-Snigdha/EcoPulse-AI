@@ -1,33 +1,4 @@
-"""
-auth/email_sender.py
---------------------
-SMTP email dispatch for EcoPulse AI OTP delivery.
 
-Configuration (all via .env — never hardcoded)
-----------------------------------------------
-SMTP_HOST     : e.g. smtp.gmail.com
-SMTP_PORT     : e.g. 587
-SMTP_USER     : your Gmail/SMTP address
-SMTP_PASSWORD : your Gmail App Password (not your Google account password)
-SMTP_FROM     : display "From" address (defaults to SMTP_USER if not set)
-
-Gmail setup
------------
-1. Enable 2-Step Verification on your Google account.
-2. Generate an App Password: Google Account → Security → App Passwords.
-3. Add to .env:
-       SMTP_HOST=smtp.gmail.com
-       SMTP_PORT=587
-       SMTP_USER=youraddress@gmail.com
-       SMTP_PASSWORD=xxxx xxxx xxxx xxxx
-
-Security
---------
-- Credentials are read exclusively from environment variables.
-- Credentials are NEVER logged, printed, or included in error messages
-  shown to the user.
-- TLS (STARTTLS on port 587) is always used.
-"""
 
 from __future__ import annotations
 
