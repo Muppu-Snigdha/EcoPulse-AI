@@ -1,0 +1,97 @@
+month,building_id,department,kwh_consumed,occupancy_rate,area_sqm
+2023-01,Admin-Block,Administration,3092.5,0.812,1800
+2023-01,Boys-Hostel,Hostel,8733.12,0.799,5500
+2023-01,CSE-Block,Computer Science,7154.34,0.859,3200
+2023-01,Canteen,Catering,3436.9,0.786,900
+2023-01,EE-Block,Electrical Eng.,5820.99,0.837,2800
+2023-01,Girls-Hostel,Hostel,8268.6,0.898,4800
+2023-01,Main-Library,Library,4806.04,0.876,4100
+2023-01,Sports-Block,Sports & PE,2546.85,0.878,2100
+2023-02,Admin-Block,Administration,3300.37,0.852,1800
+2023-02,Boys-Hostel,Hostel,10631.65,0.84,5500
+2023-02,CSE-Block,Computer Science,7891.58,0.903,3200
+2023-02,Canteen,Catering,3792.5,0.856,900
+2023-02,EE-Block,Electrical Eng.,6007.02,0.896,2800
+2023-02,Girls-Hostel,Hostel,8434.82,0.849,4800
+2023-02,Main-Library,Library,4974.36,0.9,4100
+2023-02,Sports-Block,Sports & PE,2681.06,0.875,2100
+2023-03,Admin-Block,Administration,3898.45,0.904,1800
+2023-03,Boys-Hostel,Hostel,11351.48,0.912,5500
+2023-03,CSE-Block,Computer Science,9146.85,0.841,3200
+2023-03,Canteen,Catering,3878.52,0.882,900
+2023-03,EE-Block,Electrical Eng.,7410.87,0.912,2800
+2023-03,Girls-Hostel,Hostel,9490.87,0.907,4800
+2023-03,Main-Library,Library,6158.26,0.909,4100
+2023-03,Sports-Block,Sports & PE,2933.65,0.88,2100
+2023-04,Admin-Block,Administration,4568.5,0.837,1800
+2023-04,Boys-Hostel,Hostel,13599.61,0.839,5500
+2023-04,CSE-Block,Computer Science,10222.4,0.854,3200
+2023-04,Canteen,Catering,5136.15,0.882,900
+2023-04,EE-Block,Electrical Eng.,8899.36,0.914,2800
+2023-04,Girls-Hostel,Hostel,10303.63,0.875,4800
+2023-04,Main-Library,Library,7209.92,0.806,4100
+2023-04,Sports-Block,Sports & PE,3527.98,0.836,2100
+2023-05,Admin-Block,Administration,4866.01,0.419,1800
+2023-05,Boys-Hostel,Hostel,14796.24,0.389,5500
+2023-05,CSE-Block,Computer Science,10962.28,0.399,3200
+2023-05,Canteen,Catering,5507.21,0.395,900
+2023-05,EE-Block,Electrical Eng.,9166.0,0.385,2800
+2023-05,Girls-Hostel,Hostel,12523.19,0.444,4800
+2023-05,Main-Library,Library,7885.79,0.386,4100
+2023-05,Sports-Block,Sports & PE,4282.55,0.362,2100
+2023-06,Admin-Block,Administration,4856.65,0.364,1800
+2023-06,Boys-Hostel,Hostel,14308.85,0.322,5500
+2023-06,CSE-Block,Computer Science,12258.54,0.376,3200
+2023-06,Canteen,Catering,5826.26,0.3,900
+2023-06,EE-Block,Electrical Eng.,9237.07,0.368,2800
+2023-06,Girls-Hostel,Hostel,13697.35,0.331,4800
+2023-06,Main-Library,Library,7600.43,0.342,4100
+2023-06,Sports-Block,Sports & PE,4446.67,0.397,2100
+2023-07,Admin-Block,Administration,4438.44,0.869,1800
+2023-07,Boys-Hostel,Hostel,14635.73,0.851,5500
+2023-07,CSE-Block,Computer Science,11173.69,0.882,3200
+2023-07,Canteen,Catering,5440.68,0.878,900
+2023-07,EE-Block,Electrical Eng.,22320.0,0.08,2800
+2023-07,Girls-Hostel,Hostel,11584.05,0.868,4800
+2023-07,Main-Library,Library,7465.32,0.854,4100
+2023-07,Sports-Block,Sports & PE,3886.69,0.876,2100
+2023-08,Admin-Block,Administration,3965.66,0.864,1800
+2023-08,Boys-Hostel,Hostel,10999.97,0.925,5500
+2023-08,CSE-Block,Computer Science,8535.5,0.914,3200
+2023-08,Canteen,Catering,4133.22,0.904,900
+2023-08,EE-Block,Electrical Eng.,7765.41,0.875,2800
+2023-08,Girls-Hostel,Hostel,9213.39,0.919,4800
+2023-08,Main-Library,Library,6567.12,0.85,4100
+2023-08,Sports-Block,Sports & PE,3396.66,0.939,2100
+2023-09,Admin-Block,Administration,3800.64,0.886,1800
+2023-09,Boys-Hostel,Hostel,11139.43,0.913,5500
+2023-09,CSE-Block,Computer Science,7906.79,0.911,3200
+2023-09,Canteen,Catering,4018.7,0.885,900
+2023-09,EE-Block,Electrical Eng.,7583.25,0.922,2800
+2023-09,Girls-Hostel,Hostel,9473.1,0.856,4800
+2023-09,Main-Library,Library,6051.44,0.905,4100
+2023-09,Sports-Block,Sports & PE,3037.33,0.888,2100
+2023-10,Admin-Block,Administration,3723.39,0.894,1800
+2023-10,Boys-Hostel,Hostel,11046.26,0.862,5500
+2023-10,CSE-Block,Computer Science,8245.11,0.906,3200
+2023-10,Canteen,Catering,4025.02,0.851,900
+2023-10,EE-Block,Electrical Eng.,6634.65,0.845,2800
+2023-10,Girls-Hostel,Hostel,8422.46,0.889,4800
+2023-10,Main-Library,Library,5521.2,0.901,4100
+2023-10,Sports-Block,Sports & PE,3061.29,0.893,2100
+2023-11,Admin-Block,Administration,3354.89,0.88,1800
+2023-11,Boys-Hostel,Hostel,10247.63,0.862,5500
+2023-11,CSE-Block,Computer Science,7471.94,0.854,3200
+2023-11,Canteen,Catering,3979.46,0.924,900
+2023-11,EE-Block,Electrical Eng.,6795.98,0.84,2800
+2023-11,Girls-Hostel,Hostel,8537.29,0.92,4800
+2023-11,Main-Library,Library,5345.32,0.85,4100
+2023-11,Sports-Block,Sports & PE,2984.99,0.865,2100
+2023-12,Admin-Block,Administration,3103.37,0.437,1800
+2023-12,Boys-Hostel,Hostel,8979.25,0.457,5500
+2023-12,CSE-Block,Computer Science,7227.72,0.487,3200
+2023-12,Canteen,Catering,3261.69,0.475,900
+2023-12,EE-Block,Electrical Eng.,5564.92,0.454,2800
+2023-12,Girls-Hostel,Hostel,7687.22,0.462,4800
+2023-12,Main-Library,Library,4729.75,0.476,4100
+2023-12,Sports-Block,Sports & PE,2330.31,0.409,2100

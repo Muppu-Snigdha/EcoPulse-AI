@@ -1,0 +1,10 @@
+streamlit>=1.35
+pandas>=2.0
+plotly>=5.20
+google-generativeai>=0.7
+google-genai>=0.8
+chromadb>=0.5
+python-dotenv>=1.0
+pytest>=8.0
+numpy>=1.26
+bcrypt>=4.0

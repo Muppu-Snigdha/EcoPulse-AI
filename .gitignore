@@ -1,0 +1,32 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+htmlcov/
+.coverage
+dist/
+build/
+*.egg-info/
+
+# Data (generated -- not committed)
+data/processed/
+data/chroma_db/
+
+# Keep raw synthetic data committed so the app works without running generate_data.py
+# data/raw/campus_energy.csv  intentionally NOT ignored
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Auth database
+data/users.sqlite
+
+# SMTP env
+.env
+
